@@ -1,6 +1,6 @@
 import React from 'react'
 import Select from "react-select";
-import { LANGUAGES } from '../../constants/languages';
+import { LANGUAGES } from 'https://mayank-singh-rajput.github.io/codeEditor/constants/languages';
 
 export default function LangugeDropdown({language,setLanguage}) {
   return (

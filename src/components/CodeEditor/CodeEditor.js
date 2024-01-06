@@ -1,8 +1,8 @@
 import React,{useEffect, useState} from "react";
 import Editor from "@monaco-editor/react";
 
-import { useWindowSize } from "../../Hook/windowSize";
-import { handleEditorDidMount } from "../../utils/codeEditor.utils";
+import { useWindowSize } from "https://mayank-singh-rajput.github.io/codeEditor/Hook/windowSize";
+import { handleEditorDidMount } from "https://mayank-singh-rajput.github.io/codeEditor/utils/codeEditor.utils";
 
 const CodeEditor = ({ theme, code, setCode, language }) => {
 	const { width } = useWindowSize();

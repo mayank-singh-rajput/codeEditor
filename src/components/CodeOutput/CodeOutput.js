@@ -1,5 +1,5 @@
 import React from "react";
-import { getOutput } from "../../utils/codeOutput.utils";
+import { getOutput } from "https://mayank-singh-rajput.github.io/codeEditor/utils/codeOutput.utils";
 
 const CodeOutput = ({ output, toggled, status }) => {
 	return (

@@ -1,9 +1,9 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faPlayCircle } from "@fortawesome/free-solid-svg-icons";
-import LanguageDropdown from "../Dropdowns/LanguageDropdown";
-import ThemeDropdown from "../Dropdowns/ThemeDropdown";
-import { checkStatus, submitCode } from "../../api/index";
+import LanguageDropdown from "https://mayank-singh-rajput.github.io/codeEditor/Dropdowns/LanguageDropdown";
+import ThemeDropdown from "https://mayank-singh-rajput.github.io/codeEditor/Dropdowns/ThemeDropdown";
+import { checkStatus, submitCode } from "https://mayank-singh-rajput.github.io/codeEditor/api/index";
 
 const Navbar = ({
   language,

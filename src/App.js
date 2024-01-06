@@ -1,10 +1,10 @@
-import "./App.css";
+import "https://mayank-singh-rajput.github.io/codeEditor/App.css";
 import React, { useEffect, useState } from "react";
-import CodeEditor from "./components/CodeEditor/CodeEditor";
-import CodeOutput from "./components/CodeOutput/CodeOutput";
-import CodeInput from "./components/CodeInput/CodeInput";
-import Navbar from "./components/Navbar/Navbar";
-import {boilerCodes} from "./boilerCodes";
+import CodeEditor from "https://mayank-singh-rajput.github.io/codeEditor/components/CodeEditor/CodeEditor";
+import CodeOutput from "https://mayank-singh-rajput.github.io/codeEditor/components/CodeOutput/CodeOutput";
+import CodeInput from "https://mayank-singh-rajput.github.io/codeEditor/components/CodeInput/CodeInput";
+import Navbar from "https://mayank-singh-rajput.github.io/codeEditor/components/Navbar/Navbar";
+import {boilerCodes} from "https://mayank-singh-rajput.github.io/codeEditor/boilerCodes";
 
 function App() {
 	const [output, setOutput] = useState("");

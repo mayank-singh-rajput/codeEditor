@@ -1,6 +1,6 @@
 import React from 'react'
 import Select from "react-select";
-import { defineTheme } from "../../lib/defineTheme"
+import { defineTheme } from "https://mayank-singh-rajput.github.io/codeEditor/lib/defineTheme"
 
 import monacoThemes from "monaco-themes/themes/themelist";
 
